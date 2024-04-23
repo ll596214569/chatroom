@@ -1,0 +1,7 @@
+QDialog#LoginDialog, #RegisterDialog,#ResetDialog{
+    background-color:rgb(255,0,2)
+}
+
+#user_label,#pw_label{
+   color:black;
+}
